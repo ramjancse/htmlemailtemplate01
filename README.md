@@ -1,0 +1,1 @@
+This is a HTML email template, need to download and use it.
